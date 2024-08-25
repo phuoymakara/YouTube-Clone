@@ -18,6 +18,6 @@ You will also see any lint errors in the console.
 
 <img src='./public/screen-youtube-github.png' />
 
-https://clone-youtube-demo.53cloudsite.click
+https://youtube-clone-sample.53cloudsite.click/
 
 https://you-tube-clone-five-ruby.vercel.app/
